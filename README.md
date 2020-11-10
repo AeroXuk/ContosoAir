@@ -1,3 +1,6 @@
+
+[![Build Status](https://dev.azure.com/AXDevOpsCourse/DevOpsCourse/_apis/build/status/AeroXuk.ContosoAir?branchName=master)](https://dev.azure.com/AXDevOpsCourse/DevOpsCourse/_build/latest?definitionId=3&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
